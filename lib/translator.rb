@@ -1,8 +1,8 @@
 
 
 def load_library
-get_meaning:
-get_emoticon:
+get_meaning: "8D"
+get_emoticon: "=D"
 end
 
 def get_japanese_emoticon
