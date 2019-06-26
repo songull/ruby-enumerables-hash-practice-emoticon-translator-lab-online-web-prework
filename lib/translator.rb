@@ -5,7 +5,11 @@ get_meaning: "8D"
 get_emoticon: "=D"
 end
 
-def get_japanese_emoticon
+def get_japanese_emoticon(YAML.file_path, emoticon)
+  - "=D"
+  - "（＾ｖ＾）"
+  - "(Ｔ ▽ Ｔ)"
+  - "Im sorry but this is not on the list."
 
 end
 
