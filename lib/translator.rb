@@ -13,6 +13,9 @@ def get_japanese_emoticon(YAML.file_path, emoticon)
 
 end
 
-def get_english_meaning
-  # code goes here
+def get_english_meaning(YAML.file_path, emoticon)
+- "（＾ｖ＾)"
+- "=D"
+- ":'("
+- "Im sorry but that emoticon is not available"
 end
